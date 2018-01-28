@@ -1,8 +1,5 @@
 # NavigationPanel
-Demo Project.
 
-Navigation Panel with:
--Notifications
--Services
--Jobs
--Alarms
+Android project with a Navigation Panel.
+
+It shows how to use simple Services, Jobs, Alarms and Notifications in Android.
